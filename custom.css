@@ -1,0 +1,100 @@
+﻿
+/************Desktop version layout******************/
+
+body
+{
+    margin: auto;
+    color: #000000;
+    background-color: #999999;
+    width: 100%;
+}
+
+#upper-navigation
+{
+    background-color:#ff0000;
+    margin: 1em 0 2em 0;
+    float:right;
+    height:2.5em;
+}
+
+#upper-navigation ul
+{
+    float:left;
+    margin:.5em .2em 0 -.5em;
+}
+
+#upper-navigation li
+{
+    background-color:#ff0000;
+    display:inline;
+    padding:.2em;
+}
+
+#SearchText1
+{
+    background-color:#000000;
+    /*float:right;*/
+    margin:.7em 0 0 0;
+}
+
+#lower-navigation
+{
+    background-color:#00ff00;
+    height:15em;
+}
+
+#logo
+{
+    background-color:#000000;
+    padding:1em;
+    margin:0;
+    width:20%;
+}
+
+#logo img
+{
+    /*margin:auto;*/
+    /*padding:.2em;*/
+}
+
+#nav2
+{
+    background-color:#ff0000;
+    height:5em;
+    width:70%;
+    margin:0;
+    border:2px solid #0000ff;
+}
+
+#nav2 ul li
+{
+    display:inline;
+    font-size:1.2em;
+}
+
+
+
+/***********begin media queries*********************/
+
+/*@media only screen and (max-width : 1000px) {*/
+
+  /* Small screen, non-retina */
+  	/* Columnal content control - use on any elements to show/hide content on mobile*/
+/*
+    #square1
+    {
+        background-color:#0000ff !important;
+        border-style:solid;
+        border-width:15px;
+        border-color:#00ff00;
+        height:400px;
+        width:400px;
+        margin:auto;
+    }
+
+}/* end max-device-width: 320px
+
+
+
+
+/***********end media queries*********************/
