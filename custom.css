@@ -45,14 +45,16 @@ body
 
 #logo
 {
-    background-color:#000000;
-    padding:1em;
+    background-color:#ff7777;
+    padding:.5em;
     margin:0;
     width:20%;
 }
 
 #logo img
 {
+    height:8em;
+    width:8em;
 }
 
 #nav2
@@ -71,6 +73,82 @@ body
     float:right;
     padding:1em 2em 0 0;
 }
+
+
+/*******************/
+#content
+{
+    background-color:#00ff00;
+    height:25em;
+}
+
+#main-image
+{
+    background-color:#777;
+    padding:1em;
+    margin:0;
+    width:60%;
+}
+
+#main-image img
+{
+    height:20em;
+    width:20em;
+    float:right;
+}
+
+#nav3
+{
+    background-color:#ff0000;
+    height:20em;
+    width:30%;
+    margin:0;
+    float:right;
+}
+
+#nav3 ul li
+{
+    display:block;
+    font-size:1.2em;
+    padding:1em 2em 0 0;
+}
+
+/*******************/
+
+/*
+#content
+{
+    background-color:#00ff00;
+    height:10em;
+}
+
+#main-image
+{
+    background-color:#000000;
+    padding:1em;
+    margin:0;
+    width:20%;
+}
+
+
+#nav3
+{
+    background-color:#ff0000;
+    height:5em;
+    width:70%;
+    margin:0;
+    float:right;
+}
+
+#nav3 ul li
+{
+    display:inline;
+    font-size:1.2em;
+    float:right;
+    padding:1em 2em 0 0;
+}
+*/
+
 
 
 
