@@ -51,6 +51,10 @@
           <li><a href="#">Link6</a></li>
           </ul>
       </div>
+
+      <div id="popup-nav">
+        <a href="#">popup navigation</a>
+      </div>
    
     </div><!--end lower-navigation-->    
   

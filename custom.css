@@ -80,6 +80,10 @@ body
     padding:1em 2em 0 0;
 }
 
+#popup-nav
+{
+    display:none;
+}
 
 #content
 {
@@ -162,6 +166,27 @@ body
     font-size:1.5em;
 }
 
+#nav2
+{
+    display:none;
+}
+
+#popup-nav
+{
+    background-color:#ff0000;
+    display:inline;
+    padding:1.5em 1em .5em 1em;
+    font-size:1.5em;
+    float:right;
+    height:2em;
+    margin:1em;
+}
+
+#popup-nav a
+{
+    background-color:#00ff00;
+}
+
 #nav3
 {
     background-color:#0000ff;
@@ -229,6 +254,27 @@ only screen and (                min-resolution: 2dppx)  and (max-width: 1000px)
     display:inline;
     padding:.2em;
     font-size:1.5em;
+}
+
+#nav2
+{
+    display:none;
+}
+
+#popup-nav
+{
+    background-color:#ff0000;
+    display:inline;
+    padding:1.5em 1em .5em 1em;
+    font-size:1.5em;
+    float:right;
+    height:2em;
+    margin:1em;
+}
+
+#popup-nav a
+{
+    background-color:#00ff00;
 }
 
 #nav3
